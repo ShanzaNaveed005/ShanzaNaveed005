@@ -1,5 +1,5 @@
-# Shanza Naveed  
-**BSCS Student | Software Developer | Web & AI Enthusiast**
+# Hi there 👋,
+I'm Shanza Naveed **BSCS Student | Software Developer | Web & AI Enthusiast**
 
 ---
 
@@ -73,12 +73,12 @@ GitHub: https://github.com/ShanzaNaveed005/SUEMS
 
 ---
 
-### ** E-commerce website**
+###  E-commerce website
 A e-commerece website using PHP.
 GitHub: https://github.com/ShanzaNaveed005/cartify-ecommerce-website.
 
 ---
-### ** Encryption Decryption System**
+### Encryption Decryption System
 GUI-based file encryption and decryption system using Python and multiple algorithms.
 GitHub: https://github.com/ShanzaNaveed005/encryption-decryption-system
 
