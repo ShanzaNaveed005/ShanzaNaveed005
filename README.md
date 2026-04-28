@@ -73,12 +73,11 @@ GitHub: https://github.com/ShanzaNaveed005/SUEMS
 
 ---
 
----
-
-### ** E-commerce(Basic)**
+### ** E-commerce website**
 A e-commerece website using PHP.
-GitHub: https://github.com/ShanzaNaveed005/cartify-ecommerce-website  
+GitHub: https://github.com/ShanzaNaveed005/cartify-ecommerce-website.
 
+---
 ### ** Encryption Decryption System**
 GUI-based file encryption and decryption system using Python and multiple algorithms.
 GitHub: https://github.com/ShanzaNaveed005/encryption-decryption-system
